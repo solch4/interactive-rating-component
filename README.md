@@ -15,6 +15,7 @@ Users should be able to:
 ## Screenshot
 
 ![](./screenshot/screenshot1.png)
+![](./screenshot/screenshot2.png)
 
 
 ## Built with
